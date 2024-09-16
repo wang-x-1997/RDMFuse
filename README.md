@@ -9,4 +9,4 @@ If you want to infer with our EMMA and obtain the fusion results in our paper, p
 Then, the fused results will be saved in the ```'./Fused image/'``` folder.
 
 # Training
-
+You can change your own data address in ```dataset.py``` and use ```train.py``` to retrain the method.
