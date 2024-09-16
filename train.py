@@ -12,7 +12,8 @@ from TD import TD
 import kornia
 import matplotlib.pyplot as plt
 import torch.nn.functional as F
-
+import torch
+import torch.nn as nn
 
 def str2bool(v):
     if v.lower() in ['true', 1]:
@@ -188,7 +189,7 @@ def train(e):
         print('This epoch is ' + str(e) , 'loss:', loss.item())
     scheduler1.step()
     if e % 100== 0:
-        net_g_model_out_path1 = "./samenetDec_{}.pth".format(e)
+        net_g_model_out_path1 = "./model/model.pth"
         torch.save(model_Dec, net_g_model_out_path1)
 
 
