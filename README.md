@@ -11,5 +11,6 @@ Then, the fused results will be saved in the ```'./Fused image/'``` folder.
 # Training
 You can change your own data address in ```dataset.py``` and use ```train.py``` to retrain the method.
 
-# RDMFuse Results
+# Illustration of our RDMFuse model
+![The framework of RDMFuse](./RDMFuse_img/The framework of RDMFuse.tif)
 
