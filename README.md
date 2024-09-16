@@ -24,7 +24,7 @@ You can change your own data address in ```dataset.py``` and use ```train.py``` 
 ```
 
 ## 🚀 Related Work
-- Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Shu Liang, Jin Yan. *CS<sup>2<sup>Fusion: Contrastive learning for Self-Supervised infrared and visible image fusion by estimating feature compensation map*. **INF FUS 2024**, [https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X](https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X)
+- Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Shu Liang, Jin Yan. *CS²Fusion: Contrastive learning for Self-Supervised infrared and visible image fusion by estimating feature compensation map*. **INF FUS 2024**, [https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X](https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X)
 - Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Chengchao Wang, Runzhuo Ma. *STFuse: Infrared and Visible Image Fusion via Semisupervised Transfer Learning*. **TNNLS 2024**, [https://ieeexplore.ieee.org/abstract/document/10312808](https://ieeexplore.ieee.org/abstract/document/10312808)
 - Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Chengchao Wang, Chao Yang.  *Contrast saliency information guided infrared and visible image fusion*. **TCI 2023**, [https://ieeexplore.ieee.org/abstract/document/10223277](https://ieeexplore.ieee.org/abstract/document/10223277)
 - Xue Wang, Zheng Guan, Shishuang Yu, Jinde Cao, Ya Li. *Infrared and visible image fusion via decoupling network*. **TIM 2022**, [https://ieeexplore.ieee.org/abstract/document/9945905](https://ieeexplore.ieee.org/abstract/document/9945905)
