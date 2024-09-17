@@ -16,6 +16,7 @@ You can change your own data address in ```dataset.py``` and use ```train.py``` 
 ![The framework of RDMFuse](RDMFuse_img/RDMFuse.png)
 
 # :triangular_flag_on_post: Citation
+If this work is helpful to you, please cite it as:
 ```bibtex
 @article{wangretinex,
   title={A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion},
