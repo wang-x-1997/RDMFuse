@@ -17,12 +17,7 @@ You can change your own data address in ```dataset.py``` and use ```train.py``` 
 
 # :triangular_flag_on_post: Citation
 If this work is helpful to you, please cite it as:
-```bibtex
-@article{wangretinex,
-  title={A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion},
-  author={Wang, Xue and Qian, Wenhua and Guan, Zheng and Cao, Jinde and others}
-}
-```
+
 
 ## 🚀 Related Work
 - Xue Wang, Zheng Guan, Wenhua Qian, Jinde Cao, Shu Liang, Jin Yan. *CS²Fusion: Contrastive learning for Self-Supervised infrared and visible image fusion by estimating feature compensation map*. **INF FUS 2024**, [https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X](https://www.sciencedirect.com/science/article/abs/pii/S156625352300355X)
