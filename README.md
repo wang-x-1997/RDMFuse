@@ -9,7 +9,7 @@ Infrared and visible image fusion (IVIF) aims to integrate complementary informa
 ![The framework of RDMFuse](RDMFuse_img/RDMFuse.png)
 
 # :triangular_flag_on_post: Testing
-If you want to infer with our EMMA and obtain the fusion results in our paper, please run ```test.py```.
+If you want to infer with our RDMFuse and obtain the fusion results in our paper, please run ```test.py```.
 Then, the fused results will be saved in the ```'./Fused image/'``` folder.
 
 # :triangular_flag_on_post: Training
