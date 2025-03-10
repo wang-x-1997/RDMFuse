@@ -23,11 +23,11 @@ If this work is helpful to you, please cite it as:
   author={Wang, Xue and Qian, Wenhua and Guan, Zheng and Cao, Jinde and Ma, RunZhuo and Wang, Chengchao},
   journal={IEEE Journal of Selected Topics in Signal Processing}, 
   title={A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-15},
-  keywords={Lighting;Reflectivity;Image fusion;Feature extraction;Optimization;Thermal stability;Degradation;Image Fusion;RDM;Illumination-adaptive;Hierarchical Feature Fusion},
+  year={2025},
+  volume={19},
+  number={1},
+  pages={154-168},
+  keywords={Lighting;Reflectivity;Image fusion;Feature extraction;Optimization;Thermal stability;Degradation;Image fusion;RDM;illumination-adaptive;hierarchical feature fusion},
   doi={10.1109/JSTSP.2024.3463416}}
 ```
 
