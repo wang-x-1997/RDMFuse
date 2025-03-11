@@ -1,5 +1,5 @@
 # RDMFuse
-Codes of ***A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion. (JSTSP2024)***
+Codes of ***A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion. (JSTSP2025)***
 - Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma, Chengchao Wang
 - [Paper](https://ieeexplore.ieee.org/document/10682806)
 
